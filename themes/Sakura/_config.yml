@@ -6,7 +6,7 @@ favicon: /images/favicon.ico
 avatar: https://cdn.v2ex.com/gravatar/b081852ef8e2de64dfa5520b0e3c556d?d=mp&r=g&s=300
 url: https://thaclub.github.io
 description: 二次元学生社团 不仅仅只是东方project
-cdn: https://cdn.jsdelivr.net/gh/sldarkwd/ringclub@1.0
+cdn: https://cdn.jsdelivr.net/gh/thaclub/thaclub@1.0
 pjax: 1
 # 1开启
 mathjax: 0
