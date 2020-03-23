@@ -1,9 +1,9 @@
 # site name
-prefixName: 东方
-siteName: 动漫社
+prefixName: 
+siteName: 东方动漫社
 # favicon and site master avatar
 favicon: /images/favicon.ico
-avatar: https://cdn.v2ex.com/gravatar/b081852ef8e2de64dfa5520b0e3c556d?d=mp&r=g&s=300
+avatar: /images/avatar.png
 url: https://thaclub.github.io
 description: 二次元学生社团 不仅仅只是东方project
 cdn: https://cdn.jsdelivr.net/gh/thaclub/thaclub@1.0
@@ -77,7 +77,7 @@ movies:
   name: 3.1.1_x264.mp4
 
 aplayer: 
-  id: 2660651585
+  id: 2601645969
   server: netease
   type: playlist
   fixed: true
