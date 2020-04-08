@@ -95,7 +95,7 @@ backup:
   message: backup my blog of https://thaclub.github.io/
   repository:
     # github: https://github.com/honjun/honjun.github.io.git,backup
-    coding: https://github.com/thaclub/thaclub.git
+    coding: ssh://git@github.com/thaclub/thaclub.git
 
 #RSS
 feed:
