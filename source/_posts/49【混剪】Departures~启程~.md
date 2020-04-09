@@ -3,7 +3,7 @@ layout: post
 title: 【混剪】Departures~启程~
 categories: 默认分类
 author: 听夜
-avatar: http://q1.qlogo.cn/g?b=qq&nk=373338420&s=100
+avatar: https://q1.qlogo.cn/g?b=qq&nk=373338420&s=100
 comments: true
 keywords: 混剪 MAD AMV 欢迎
 description: 新的生活已经开始。在此处前行路上，有幸与你同行
