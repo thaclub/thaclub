@@ -1,10 +1,10 @@
 ---
 title: comment
 date: 2018-12-20 23:13:48
-keywords: 留言板
+keywords: 留言
 description: 
 comments: true
-photos: https://cdn.jsdelivr.net/gh/honjun/cdn@1.4/img/banner/comment.jpg
+photos: https://cdn.jsdelivr.net/gh/thaclub/thaclub@1.0/themes/Sakura/source/images/cover/36.jpg
 ---
 {% raw %}
 <div class="entry-content">
@@ -14,7 +14,7 @@ photos: https://cdn.jsdelivr.net/gh/honjun/cdn@1.4/img/banner/comment.jpg
     <div class="poem-border poem-right">
     </div>
     <h1>
-    念两句诗</h1>
+    古人有言</h1>
     <p id="poem">
     叙别梦、扬州一觉。</p>
     <p id="info">

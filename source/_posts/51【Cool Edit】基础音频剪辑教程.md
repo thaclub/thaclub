@@ -1,10 +1,18 @@
 ---
+layout: post
 title: 【Cool Edit】基础音频剪辑教程
 categories: 默认分类
-urlname: 51
-abbrlink: 3cd78d56
-date: 2019-10-24 02:40:00
+author: 听夜
+avatar: http://q1.qlogo.cn/g?b=qq&nk=373338420&s=100
+comments: true
+keywords: 教程 音频 cooledit
+description: 非常基础简单的音频软件使用教程
+photos: https://cdn.jsdelivr.net/gh/sldarkwd/pictures@f0609b6/sj/13.jpg
 tags:
+  - 二次元
+  - 教程
+abbrlink: 51
+date: 2019-10-24 02:40:00
 ---
 <!--markdown-->[dplayer url="https://gl.dfacgn.workers.dev/基础音频剪辑教程_x264.mp4" pic="" /]
 

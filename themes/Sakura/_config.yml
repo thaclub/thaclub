@@ -6,7 +6,7 @@ favicon: /themes/Sakura/source/images/favicon.ico
 avatar: /themes/Sakura/source/images/avatar.png
 url: https://thaclub.github.io
 description: 二次元学生社团 不仅仅只是东方project
-cdn: https://cdn.jsdelivr.net/gh/thaclub/thaclub@1.0
+cdn: https://cdn.jsdelivr.net/gh/thaclub/thaclub@4615c1b
 pjax: 1
 # 1开启
 mathjax: 0
@@ -23,13 +23,13 @@ menus:
   } }
   留言: { path: /comment/, fa: fa-pencil-square-o faa-tada }
   友链: { path: /links/, fa: fa-link faa-shake }
-  关于: { path: /, fa: fa-leaf faa-wrench  }
+  关于: { path: /about, fa: fa-leaf faa-wrench  }
 
 
 # Home page sort type: -1: newer first，1: older first.
 homePageSortType: -1
 # Home page article shown number)
-homeArticleShown: 6
+homeArticleShown: 10
 # 背景图片 更好的修改
 bg:
   - https://cdn.jsdelivr.net/gh/sldarkwd/pictures@f0609b6/th/gg.jpg
@@ -66,8 +66,8 @@ msocial:
 
 donate:
   #paypal: https://www.paypal.me/hojuncn
-  alipay: /themes/Sakura/source/images/cover/4.jpg
-  wechat: /themes/Sakura/source/images/cover/9.jpg
+  alipay: /themes/Sakura/source/images/ailipay1.jpg
+  wechat: /themes/Sakura/source/images/ktwl.jpg
   #wechatSQ: /themes/Sakura/source/images/cover/3.jpg
 
 # 视频地址为https://cdn.jsdelivr.net/gh/honjun/hojun@1.2/Unbroken.mp4，配置如下
