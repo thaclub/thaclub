@@ -2,7 +2,7 @@
 prefixName: 东方
 siteName: 动漫社
 # favicon and site master avatar
-favicon: /themes/Sakura/source/images/favicon.ico
+favicon: /images/favicon.ico
 avatar: /themes/Sakura/source/images/avatar.png
 url: https://thaclub.github.io
 description: 二次元学生社团 不仅仅只是东方project
@@ -11,15 +11,15 @@ pjax: 1
 # 1开启
 mathjax: 0
 
-notice: 原站正在向hexo-Sakura迁移，请等待进一步更新...
+notice: 欢迎来到东方动漫社，这是官网2.0哦
 lazyloadImg: https://cdn.jsdelivr.net/gh/sldarkwd/build@6f29bbc/usr/themes/Aria/assets/img/loading.svg
 
 menus:
   主页: { path: /, fa: fa-fort-awesome faa-shake }
   目录: { path: /archives, fa: fa-archive faa-shake, submenus: { 
-    默认: {path: /categories/生活/, fa: fa-file-text-o }, 
-    安利: {path: /categories/随想/, fa: fa-commenting-o },
-    原创: {path: /categories/转载/, fa: fa-book }
+    默认: {path: /categories/默认分类/, fa: fa-file-text-o }, 
+    安利: {path: /categories/安利/, fa: fa-commenting-o },
+    原创: {path: /categories/原创/, fa: fa-book }
   } }
   留言: { path: /comment/, fa: fa-pencil-square-o faa-tada }
   友链: { path: /links/, fa: fa-link faa-shake }
@@ -39,9 +39,9 @@ bgclass:
 
 # startdash url, title, desc img
 startdash: 
-  - {url: /theme-sakura/, title: Sakura, desc: 本站 hexo 主题, img: /themes/Sakura/source/images/cover/1.jpg}
+  - {url: https://dfacgn.com/about , title: 使用Sakura主题, desc: 点击查看详情, img: /themes/Sakura/source/images/cover/1.jpg}
   - {url: https://space.bilibili.com/322448790, title: Bilibili, desc: 社团的B站账号, img: /themes/Sakura/source/images/cover/2.jpg}
-  - {url: /, title: hojun的万事屋, desc: 技术服务, img: /themes/Sakura/source/images/cover/3.jpg}
+  - {url: https://hexo.sldark.com/ , title: 听夜提供, desc: 技术支持, img: /themes/Sakura/source/images/cover/4.jpg}
 
 
 
@@ -54,7 +54,7 @@ social:
 # sina: {url: http://weibo.com/mashirozx?is_all=1, img: /img/social/sina.png}
 #  wangyiyun: {url: http://weibo.com/mashirozx?is_all=1, img: /img/social/wangyiyun.png}
 #  zhihu: {url: http://weibo.com/mashirozx?is_all=1, img: /img/social/zhihu.png}
- email: {url: http://dfacgn.com/, img: /themes/Sakura/source/images/email.svg}
+ email: {url: http://dfacgn.com/comment/, img: /themes/Sakura/source/images/email.svg}
 #  wechat: {url: /#, qrcode: /img/custom/wechat.jpg, img: /img/social/wechat.png}
 #  wechat2: {url: /#, qrcode: /img/custom/wechat.jpg, img: /img/social/wechat.png}
 
@@ -62,7 +62,7 @@ social:
 msocial:
 #  github: {url: http://github.com/honjun, fa: fa-github, color: 333}
 #  weibo: {url: http://weibo.com/mashirozx?is_all=1, fa: fa-weibo, color: dd4b39}
-  qq: {url: https://wpa.qq.com/msgrd?v=3&uin=2311384304&site=qq&menu=yes, fa: fa-qq, color: 25c6fe}
+  qq: {url: mqqapi://card/show_pslcard?src_type=internal&version=1&uin=2311384304, fa: fa-qq, color: 25c6fe}
 
 donate:
   #paypal: https://www.paypal.me/hojuncn

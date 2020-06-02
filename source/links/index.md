@@ -30,8 +30,8 @@ links:
       img: https://cdn.jsdelivr.net/gh/sldarkwd/pictures@a8b8b59/th/kjdns.jpg
       name: 科技电脑社
       desc: 科技电脑社
-    - url: https://sldark.com
+    - url: https://hexo.sldark.com
       img: https://cdn.jsdelivr.net/gh/sldarkwd/pictures@44fac8b/new/b4.jpg?d=mp&r=g&s=50
       name: SldarkWorkshop
-      desc: 小黑工作室
+      desc: 小黑测试
 ---
